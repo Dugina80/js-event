@@ -1,0 +1,20 @@
+.text-container {
+    width: 400px;
+    margin: 50px auto;
+}
+
+.textDiv {
+        display: block;
+        padding: 10px;
+        border: 1px solid #ccc;
+        background-color: #f9f9f9;
+        cursor: text;
+}
+.textarea {
+    display: none;
+    width: 100%;
+    height: 200px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    resize: none;
+}

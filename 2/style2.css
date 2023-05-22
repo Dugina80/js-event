@@ -1,0 +1,16 @@
+.table {
+    border-collapse: separate;
+    width: 100%;
+  }
+  
+  .table th,
+  .table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .table th {
+    cursor: pointer;
+    background-color: rgb(156, 156, 250);
+  }
